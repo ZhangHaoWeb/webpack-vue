@@ -17,13 +17,18 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
-      events:null
+      events:true
     }
   },
   methods:{
     say() {
-      console.log(this.events);
-      this.events == null ? 'events' : ' ';
+      console.log(this.events)
+      if (this.events) {
+        this.events = 'this is a click event.';
+        console.log(this.events);
+      }else{
+        console.log('events error...');
+      }
     }
   }
 }
