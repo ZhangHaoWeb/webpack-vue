@@ -2,6 +2,7 @@
 <template>
    <div class="page">
        this is a test page hahaha.
+       git commit -a
    </div>
 </template>
 

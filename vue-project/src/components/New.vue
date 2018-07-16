@@ -2,7 +2,7 @@
 <template>
    <div class="page">
        this is new vue haha
-       this is test commit -a
+       this is test commit
    </div>
 </template>
 
