@@ -1,7 +1,7 @@
 <!--  -->
 <template>
    <div class="page">
-       this is new vue haha
+       this is a test page hahaha.
    </div>
 </template>
 
