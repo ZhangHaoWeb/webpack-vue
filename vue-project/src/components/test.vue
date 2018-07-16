@@ -2,8 +2,8 @@
 <template>
    <div class="page">
        this is a test page hahaha.
-       git commit -a
-   </div>
+       git commit -aaa
+   </div> 
 </template>
 
 <script type="text/ecmascript-6">
